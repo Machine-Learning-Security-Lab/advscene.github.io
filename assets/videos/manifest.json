@@ -1,0 +1,127 @@
+{
+  "source_directory": "/project/xiaoyon/trustai/brian/3dgs_physical_attack/web_assets/2026-10-25_all_scene_font22_r1",
+  "selection": "video_review_results.md",
+  "panel_order": [
+    "clean",
+    "adversarial"
+  ],
+  "videos": [
+    {
+      "dataset": "co3d",
+      "scene": "apple_0",
+      "source": "/project/xiaoyon/trustai/brian/3dgs_physical_attack/web_assets/2026-10-25_all_scene_font22_r1/co3d/co3d_apple_0/comparison.mp4",
+      "video": "assets/videos/co3d/co3d_apple_0.mp4",
+      "poster": "assets/videos/co3d/co3d_apple_0.png",
+      "sha256": "680bd7aba8cdb10487775ba8ac3fc06fc470158ad41b038e4bd845010643b5d3",
+      "bytes": 1788502,
+      "width": 940,
+      "height": 718,
+      "frames": 283,
+      "fps": 24
+    },
+    {
+      "dataset": "co3d",
+      "scene": "ball_0",
+      "source": "/project/xiaoyon/trustai/brian/3dgs_physical_attack/web_assets/2026-10-25_all_scene_font22_r1/co3d/co3d_ball_0/comparison.mp4",
+      "video": "assets/videos/co3d/co3d_ball_0.mp4",
+      "poster": "assets/videos/co3d/co3d_ball_0.png",
+      "sha256": "6151686474b00753f9fe74ef045387303b208e5553be92c42f6f7de0e4a990f6",
+      "bytes": 3138635,
+      "width": 1432,
+      "height": 1342,
+      "frames": 104,
+      "fps": 24
+    },
+    {
+      "dataset": "co3d",
+      "scene": "book_1",
+      "source": "/project/xiaoyon/trustai/brian/3dgs_physical_attack/web_assets/2026-10-25_all_scene_font22_r1/co3d/co3d_book_1/comparison.mp4",
+      "video": "assets/videos/co3d/co3d_book_1.mp4",
+      "poster": "assets/videos/co3d/co3d_book_1.png",
+      "sha256": "3db42e191cc6610deac328093f1a6c750e8cdeb6ba5fb9040b918c643638e8a8",
+      "bytes": 2551116,
+      "width": 2560,
+      "height": 776,
+      "frames": 74,
+      "fps": 24
+    },
+    {
+      "dataset": "co3d",
+      "scene": "suitcase_0",
+      "source": "/project/xiaoyon/trustai/brian/3dgs_physical_attack/web_assets/2026-10-25_all_scene_font22_r1/co3d/co3d_suitcase_0/comparison.mp4",
+      "video": "assets/videos/co3d/co3d_suitcase_0.mp4",
+      "poster": "assets/videos/co3d/co3d_suitcase_0.png",
+      "sha256": "9d98177a0041d66d11aab503eb85c44a751fa36e4277b0c4dee9315fbd6ea141",
+      "bytes": 2688786,
+      "width": 2560,
+      "height": 780,
+      "frames": 101,
+      "fps": 24
+    },
+    {
+      "dataset": "co3d",
+      "scene": "skateboard_0",
+      "source": "/project/xiaoyon/trustai/brian/3dgs_physical_attack/web_assets/2026-10-25_all_scene_font22_r1/co3d/co3d_skateboard_0/comparison.mp4",
+      "video": "assets/videos/co3d/co3d_skateboard_0.mp4",
+      "poster": "assets/videos/co3d/co3d_skateboard_0.png",
+      "sha256": "a35405554f190570a267024df8805fbe0a2f33d3ba99597b6ffce38ed8fcdec7",
+      "bytes": 1656436,
+      "width": 2532,
+      "height": 770,
+      "frames": 100,
+      "fps": 24
+    },
+    {
+      "dataset": "waymo",
+      "scene": "095",
+      "source": "/project/xiaoyon/trustai/brian/3dgs_physical_attack/web_assets/2026-10-25_all_scene_font22_r1/waymo/waymo_095/comparison.mp4",
+      "video": "assets/videos/waymo/waymo_095.mp4",
+      "poster": "assets/videos/waymo/waymo_095.png",
+      "sha256": "f32fbb53bb8537018a6e6e5e4fe538adbdf8375b1dfa8236dd76721f8ad9afd1",
+      "bytes": 2461714,
+      "width": 1920,
+      "height": 702,
+      "frames": 48,
+      "fps": 10
+    },
+    {
+      "dataset": "waymo",
+      "scene": "027",
+      "source": "/project/xiaoyon/trustai/brian/3dgs_physical_attack/web_assets/2026-10-25_all_scene_font22_r1/waymo/waymo_027/comparison.mp4",
+      "video": "assets/videos/waymo/waymo_027.mp4",
+      "poster": "assets/videos/waymo/waymo_027.png",
+      "sha256": "16e3b11a0f045411335a58e731f775ca2aee868d9903c879ba19577eeb9128dc",
+      "bytes": 3027488,
+      "width": 1920,
+      "height": 702,
+      "frames": 33,
+      "fps": 10
+    },
+    {
+      "dataset": "waymo",
+      "scene": "189",
+      "source": "/project/xiaoyon/trustai/brian/3dgs_physical_attack/web_assets/2026-10-25_all_scene_font22_r1/waymo/waymo_189/comparison.mp4",
+      "video": "assets/videos/waymo/waymo_189.mp4",
+      "poster": "assets/videos/waymo/waymo_189.png",
+      "sha256": "b790a73fea192b558f0927cf28168c5d1d78eafa130477d1320abad7b0817a9e",
+      "bytes": 823787,
+      "width": 1920,
+      "height": 702,
+      "frames": 10,
+      "fps": 10
+    },
+    {
+      "dataset": "waymo",
+      "scene": "395",
+      "source": "/project/xiaoyon/trustai/brian/3dgs_physical_attack/web_assets/2026-10-25_all_scene_font22_r1/waymo/waymo_395/comparison.mp4",
+      "video": "assets/videos/waymo/waymo_395.mp4",
+      "poster": "assets/videos/waymo/waymo_395.png",
+      "sha256": "51b0e16db7dfe6e1504b2def457079037ece9d7f9e471582cd2382fb7c40529d",
+      "bytes": 2469925,
+      "width": 1920,
+      "height": 702,
+      "frames": 52,
+      "fps": 10
+    }
+  ]
+}
